@@ -23,7 +23,7 @@ app.get('/courses', (req,res)=>{
         "curso 2",
         "curso 3",
         "curso 4",
-        "curso 5",
+        "curso 6",
     ])
 })
 
